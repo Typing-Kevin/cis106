@@ -1,8 +1,0 @@
-## What is Markdown?
-Markdown is a lightweight markup language that uses simple plain-text formatting to add structure and formatting to documents, allowing them to be converted into other formats like HTML or PDF. It is designed to be easy to read and write in plain-text editors, making it popular for technical documentation, web content, and notes on platforms like GitHub.
-## What is Git?
-Git is a free and open-source distributed version control system (DVCS) designed to handle everything from small to very large projects with speed and efficiency. It was originally created by Linus Torvalds in 2005 for the development of the Linux kernel.
-## What is Github?
-GitHub is a cloud-based platform built on the Git version control system that allows developers to store, manage, and collaborate on software projects. It serves as a social coding platform, providing features like code hosting, version control, issue tracking, and project management tools that enable teams to work together on code from anywhere. GitHub acts as an online repository, providing a central location for developers to store their code, back it up, and synchronize it across different computers.
-## What is Slack?
-Slack is a digital workplace platform and "work operating system" that brings together people, tools, and information into a single, organized space. It uses organized spaces called "channels" for project-specific or team conversations, allowing for messaging, file sharing, and integrations with other apps, all within a searchable history of communication and knowledge. Slack also incorporates AI-powered features for summarizing conversations, retrieving information, and automating tasks, and offers Slack Connect for secure collaboration with external partners.
